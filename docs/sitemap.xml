@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://stefanhans.github.io/example-hugo-site/post/first-post/</loc>
-    <lastmod>2017-07-05T19:33:11+02:00</lastmod>
+    <lastmod>2017-07-05T20:33:34+02:00</lastmod>
   </url>
   
   <url>
@@ -13,93 +13,24 @@
   </url>
   
   <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stefanhans.github.io/example-hugo-site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://stefanhans.github.io/example-hugo-site/</loc>
-    <lastmod>2017-07-05T19:33:11+02:00</lastmod>
+    <lastmod>2017-07-05T20:33:34+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stefanhans.github.io/example-hugo-site/post/</loc>
-    <lastmod>2017-07-05T19:33:11+02:00</lastmod>
+    <lastmod>2017-07-05T20:33:34+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stefanhans.github.io/example-hugo-site/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefanhans.github.io/example-hugo-site/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
