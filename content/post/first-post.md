@@ -8,5 +8,5 @@ draft: false
 
 Welcome to this first post of my example web site made by Hugo
 
-Thanks :)    ;-)
+Thank you hey :)    ;-)
  
