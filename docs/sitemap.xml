@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stefanhans.github.io/example-hugo-site/blog/article/</loc>
+    <lastmod>2017-08-22T19:48:50+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stefanhans.github.io/example-hugo-site/post/first-post/</loc>
     <lastmod>2017-07-05T20:33:34+02:00</lastmod>
   </url>
@@ -13,13 +18,19 @@
   </url>
   
   <url>
+    <loc>https://stefanhans.github.io/example-hugo-site/blog/</loc>
+    <lastmod>2017-08-22T19:48:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stefanhans.github.io/example-hugo-site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stefanhans.github.io/example-hugo-site/</loc>
-    <lastmod>2017-07-05T20:33:34+02:00</lastmod>
+    <lastmod>2017-08-22T19:48:50+02:00</lastmod>
     <priority>0</priority>
   </url>
   
