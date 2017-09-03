@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog.go-digitals.com</title>
+    <title>go-digitals</title>
     <link>http://blog.go-digitals.com/</link>
-    <description>Recent content on blog.go-digitals.com</description>
+    <description>Recent content on go-digitals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Aug 2017 19:51:49 +0200</lastBuildDate>
