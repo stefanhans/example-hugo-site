@@ -1,4 +1,4 @@
-# example-hugo-site
-Test Hugo Repo
+# Content Repository of blog.go-digitals.com
+under construction
 
-[https://stefanhans.github.io/example-hugo-site/](https://stefanhans.github.io/example-hugo-site/)
+[http://blog.go-digitals.com/](http://blog.go-digitals.com/)
