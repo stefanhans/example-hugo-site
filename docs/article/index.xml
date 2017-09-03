@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on blog.go-digitals.com</title>
+    <link>http://blog.go-digitals.com/article/</link>
+    <description>Recent content in Articles on blog.go-digitals.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2017 19:51:49 +0200</lastBuildDate>
+    
+	<atom:link href="http://blog.go-digitals.com/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://blog.go-digitals.com/article/blog/</link>
+      <pubDate>Tue, 22 Aug 2017 19:51:49 +0200</pubDate>
+      
+      <guid>http://blog.go-digitals.com/article/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
