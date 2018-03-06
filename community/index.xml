@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on go-digitals</title>
+    <link>https://stefanhans.github.io/community/</link>
+    <description>Recent content in Community on go-digitals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Mar 2018 21:15:34 +0100</lastBuildDate>
+    
+	<atom:link href="https://stefanhans.github.io/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cooperation</title>
+      <link>https://stefanhans.github.io/community/cooperation/</link>
+      <pubDate>Mon, 05 Mar 2018 21:15:34 +0100</pubDate>
+      
+      <guid>https://stefanhans.github.io/community/cooperation/</guid>
+      <description>This refers to Cooperation
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
+    </item>
+    
+  </channel>
+</rss>

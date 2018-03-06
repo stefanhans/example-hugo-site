@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on go-digitals</title>
-    <link>http://blog.go-digitals.com/categories/</link>
+    <link>https://stefanhans.github.io/categories/</link>
     <description>Recent content in Categories on go-digitals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://blog.go-digitals.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefanhans.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

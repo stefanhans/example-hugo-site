@@ -2,41 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go-digitals</title>
-    <link>http://blog.go-digitals.com/</link>
+    <link>https://stefanhans.github.io/</link>
     <description>Recent content on go-digitals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2017 19:51:49 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Mar 2018 09:33:47 +0100</lastBuildDate>
     
-	<atom:link href="http://blog.go-digitals.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stefanhans.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>http://blog.go-digitals.com/article/blog/</link>
-      <pubDate>Tue, 22 Aug 2017 19:51:49 +0200</pubDate>
+      <title>Intro</title>
+      <link>https://stefanhans.github.io/home/intro/</link>
+      <pubDate>Tue, 06 Mar 2018 09:33:47 +0100</pubDate>
       
-      <guid>http://blog.go-digitals.com/article/blog/</guid>
-      <description></description>
+      <guid>https://stefanhans.github.io/home/intro/</guid>
+      <description>This refers to Intro
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
     </item>
     
     <item>
-      <title>Article</title>
-      <link>http://blog.go-digitals.com/blog/article/</link>
-      <pubDate>Tue, 22 Aug 2017 19:48:50 +0200</pubDate>
+      <title>Stefanhans</title>
+      <link>https://stefanhans.github.io/team/stefanhans/</link>
+      <pubDate>Mon, 05 Mar 2018 21:16:29 +0100</pubDate>
       
-      <guid>http://blog.go-digitals.com/blog/article/</guid>
-      <description></description>
+      <guid>https://stefanhans.github.io/team/stefanhans/</guid>
+      <description>This refers to Stefanhans
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
     </item>
     
     <item>
-      <title>First Post</title>
-      <link>http://blog.go-digitals.com/post/first-post/</link>
-      <pubDate>Wed, 05 Jul 2017 20:33:34 +0200</pubDate>
+      <title>Cooperation</title>
+      <link>https://stefanhans.github.io/community/cooperation/</link>
+      <pubDate>Mon, 05 Mar 2018 21:15:34 +0100</pubDate>
       
-      <guid>http://blog.go-digitals.com/post/first-post/</guid>
-      <description>Hello My Friends :) Welcome to this first post of my example web site made by Hugo
-Thank you hey :) ;-)</description>
+      <guid>https://stefanhans.github.io/community/cooperation/</guid>
+      <description>This refers to Cooperation
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://stefanhans.github.io/services/talks/</link>
+      <pubDate>Mon, 05 Mar 2018 21:01:42 +0100</pubDate>
+      
+      <guid>https://stefanhans.github.io/services/talks/</guid>
+      <description>This refers to Talks
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
+    </item>
+    
+    <item>
+      <title>Nikitahans</title>
+      <link>https://stefanhans.github.io/team/nikitahans/</link>
+      <pubDate>Mon, 05 Mar 2018 21:16:29 +0100</pubDate>
+      
+      <guid>https://stefanhans.github.io/team/nikitahans/</guid>
+      <description>This refers to Nikitahans
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://stefanhans.github.io/technology/go/</link>
+      <pubDate>Mon, 05 Mar 2018 21:11:23 +0100</pubDate>
+      
+      <guid>https://stefanhans.github.io/technology/go/</guid>
+      <description>This refers to Go Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
     </item>
     
   </channel>
