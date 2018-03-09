@@ -22,13 +22,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>Stefanhans</title>
+      <title>Stefan Hans</title>
       <link>https://stefanhans.github.io/team/stefanhans/</link>
       <pubDate>Mon, 05 Mar 2018 21:16:29 +0100</pubDate>
       
       <guid>https://stefanhans.github.io/team/stefanhans/</guid>
       <description>This refers to Stefanhans
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
     </item>
     
     <item>
@@ -48,6 +49,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       
       <guid>https://stefanhans.github.io/services/talks/</guid>
       <description>This refers to Talks
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
+    </item>
+    
+    <item>
+      <title>Guest</title>
+      <link>https://stefanhans.github.io/team/guest/</link>
+      <pubDate>Mon, 05 Mar 2018 21:16:29 +0100</pubDate>
+      
+      <guid>https://stefanhans.github.io/team/guest/</guid>
+      <description>This refers to guest
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In nibh mauris cursus mattis molestie a. Nullam ac tortor vitae purus faucibus ornare suspendisse sed. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Massa vitae tortor condimentum lacinia quis vel. Sed felis eget velit aliquet sagittis id consectetur. Enim nulla aliquet porttitor lacus luctus accumsan.</description>
     </item>
     
