@@ -3,7 +3,7 @@ h1.list-header {
     width: 50%;
     padding: 10px;
     overflow: hidden;
-    background-color: transparent;
+    background-color: papayawhip;
 }
 
 div.list-header {
@@ -11,7 +11,7 @@ div.list-header {
     width: 50%;
     padding: 10px;
     overflow: hidden;
-    background-color: transparent;
+    background-color: navajowhite;
 }
 
 ul.list-range {
@@ -20,7 +20,7 @@ ul.list-range {
     padding: 10px;
     width: 50%;
     overflow: hidden;
-    background-color: transparent;
+    background-color: papayawhip;
 }
 
 li.list-range {
